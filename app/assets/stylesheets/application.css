@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+h1{
+  font-size: large;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+.answer{
+  background-color: bisque;
+  text-align: center;
+}
+
+.class{
+
+  text-align: center;
+}
+
+#input{
+  text-align: center;
+}
